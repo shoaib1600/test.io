@@ -320,6 +320,7 @@ span{
     width: 100%;
     height: 120vh;
     border: 1px solid black;
+    border-radius: 25px;
     background-color: #30009C;
     color: white;
 }
